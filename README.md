@@ -10,7 +10,7 @@
 
 ## Project
 
-- [ ] Use _create-react-app_ to make an application, name it `apple-nav`.
+- [x] Use _create-react-app_ to make an application, name it `apple-nav`.
 - [ ] You'll need to build out a few components here. Some variation of a `NavWrapper` component which will be your navigation header.
 - [ ] Lastly you're going to need some sort of `SubNav` component, that will be reusable and display your sub-navigation links for each category.
 
